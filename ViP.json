@@ -1,4 +1,38 @@
 {
-  "bypassVersion": "4",
+  "bypassVersion": "5",
   "mainURL": "https://github.com/ALLAWIl/ALLAWI/raw/refs/heads/main/ALLAWIViP.zip"
+}
+{
+  "gamesList": [
+    {
+      "title": "العالمية النسخة",
+      "package": "com.tencent.ig",
+      "version": "4.1",
+      "status": "غير امنة ❌"
+    },
+    {
+      "title": "الكورية النسخة",
+      "package": "com.pubg.krmobile",
+      "version": "4.1",
+      "status": "✅ آمنة"
+    },
+    {
+      "title": "الفيتنامية النسخة",
+      "package": "com.vng.pubgmobile",
+      "version": "4.1",
+      "status": "✅ آمنة"
+    },
+    {
+      "title": "التايوانية النسخة",
+      "package": "com.rekoo.pubgm",
+      "version": "4.1",
+      "status": "✅ آمنة"
+    },
+    {
+      "title": "الهندية النسخة",
+      "package": "com.pubg.imobile",
+      "version": "4.1",
+      "status": "غير آمنة ❌"
+    }
+  ]
 }
