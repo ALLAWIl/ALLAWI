@@ -1,14 +1,13 @@
 {
-  "bypassVersion": "6",
-  "mainURL": "https://github.com/ALLAWIl/ALLAWI/raw/refs/heads/main/ALLAWIViP.zip"
-}
-{
+  "bypassVersion": "7",
+  "mainURL": "https://raw.githubusercontent.com/ALLAWI1/ALLAWI/main/ALLAWIViP.zip",
+
   "gamesList": [
     {
       "title": "العالمية النسخة",
       "package": "com.tencent.ig",
       "version": "4.1",
-      "status": "غير امنة ❌"
+      "status": "غير آمنة ❌"
     },
     {
       "title": "الكورية النسخة",
